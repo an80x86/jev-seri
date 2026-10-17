@@ -1,0 +1,7 @@
+typesafe-sdk[pil]==0.7.5
+python-dotenv
+pillow
+numpy
+matplotlib
+pyobjc-framework-Vision   # yalnizca macOS: Apple Vision metin tanima (karart.py, ocr_bazal.py)
+pyobjc-framework-Quartz

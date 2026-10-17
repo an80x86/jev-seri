@@ -1,0 +1,6122 @@
+[
+ {
+  "ad": "fatura_01_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 439,
+  "token": 1404,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.19,
+     "bottom": 0.44,
+     "left": 0.07,
+     "right": 0.24
+    },
+    "guven": 0.2,
+    "var": 0.97
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.19,
+     "bottom": 0.25,
+     "left": 0.14,
+     "right": 0.33
+    },
+    "guven": 0.71,
+    "var": 0.96
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.19,
+     "bottom": 0.24,
+     "left": 0.12,
+     "right": 0.42
+    },
+    "guven": 0.59,
+    "var": 0.95
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.8,
+     "bottom": 0.87,
+     "left": 0.04,
+     "right": 0.95
+    },
+    "guven": 0.48,
+    "var": 0.99
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.84,
+     "bottom": 0.91,
+     "left": 0.69,
+     "right": 0.92
+    },
+    "guven": 0.78,
+    "var": 0.96
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.56,
+     "bottom": 0.59,
+     "left": 0.43,
+     "right": 0.55
+    },
+    "guven": 0.27,
+    "var": 0.99
+   }
+  }
+ },
+ {
+  "ad": "fatura_01_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 757,
+  "token": 5330,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.22,
+     "bottom": 0.32,
+     "left": 0.16,
+     "right": 0.35
+    },
+    "guven": 0.44,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.26,
+     "bottom": 0.3,
+     "left": 0.28,
+     "right": 0.4
+    },
+    "guven": 0.73,
+    "var": 0.97
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.26,
+     "bottom": 0.3,
+     "left": 0.25,
+     "right": 0.41
+    },
+    "guven": 0.77,
+    "var": 0.9
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.78,
+     "bottom": 0.8,
+     "left": 0.14,
+     "right": 0.39
+    },
+    "guven": 0.94,
+    "var": 0.99
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.8,
+     "bottom": 0.85,
+     "left": 0.65,
+     "right": 0.86
+    },
+    "guven": 0.89,
+    "var": 0.96
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.55,
+     "bottom": 0.57,
+     "left": 0.73,
+     "right": 0.86
+    },
+    "guven": 0.36,
+    "var": 0.98
+   }
+  }
+ },
+ {
+  "ad": "fatura_01_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 757,
+  "token": 5101,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.18,
+     "bottom": 0.26,
+     "left": 0.08,
+     "right": 0.23
+    },
+    "guven": 0.41,
+    "var": 0.97
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.25,
+     "left": 0.17,
+     "right": 0.33
+    },
+    "guven": 0.66,
+    "var": 0.96
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.22,
+     "bottom": 0.26,
+     "left": 0.23,
+     "right": 0.37
+    },
+    "guven": 0.8,
+    "var": 0.89
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.82,
+     "bottom": 0.86,
+     "left": 0.06,
+     "right": 0.37
+    },
+    "guven": 0.95,
+    "var": 0.99
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.84,
+     "bottom": 0.9,
+     "left": 0.71,
+     "right": 0.95
+    },
+    "guven": 0.83,
+    "var": 0.96
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.53,
+     "bottom": 0.56,
+     "left": 0.8,
+     "right": 0.93
+    },
+    "guven": 0.6,
+    "var": 0.98
+   }
+  }
+ },
+ {
+  "ad": "fatura_02_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 473,
+  "token": 1407,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.15,
+     "bottom": 0.45,
+     "left": 0.08,
+     "right": 0.32
+    },
+    "guven": 0.42,
+    "var": 0.97
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.14,
+     "bottom": 0.44,
+     "left": 0.14,
+     "right": 0.41
+    },
+    "guven": 0.27,
+    "var": 0.93
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.14,
+     "bottom": 0.92,
+     "left": 0.11,
+     "right": 0.42
+    },
+    "guven": 0.15,
+    "var": 0.94
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.79,
+     "bottom": 0.9,
+     "left": 0.05,
+     "right": 0.34
+    },
+    "guven": 0.95,
+    "var": 0.99
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.84,
+     "bottom": 0.92,
+     "left": 0.67,
+     "right": 0.93
+    },
+    "guven": 0.7,
+    "var": 0.97
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.54,
+     "bottom": 0.55,
+     "left": 0.43,
+     "right": 0.49
+    },
+    "guven": 0.34,
+    "var": 0.99
+   }
+  }
+ },
+ {
+  "ad": "fatura_02_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 703,
+  "token": 5327,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.26,
+     "left": 0.16,
+     "right": 0.88
+    },
+    "guven": 0.19,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.24,
+     "bottom": 0.29,
+     "left": 0.21,
+     "right": 0.4
+    },
+    "guven": 0.72,
+    "var": 0.95
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.29,
+     "left": 0.28,
+     "right": 0.41
+    },
+    "guven": 0.8,
+    "var": 0.92
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.78,
+     "bottom": 0.8,
+     "left": 0.12,
+     "right": 0.39
+    },
+    "guven": 0.96,
+    "var": 0.99
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.8,
+     "bottom": 0.85,
+     "left": 0.63,
+     "right": 0.82
+    },
+    "guven": 0.9,
+    "var": 0.96
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.5,
+     "bottom": 0.52,
+     "left": 0.57,
+     "right": 0.84
+    },
+    "guven": 0.46,
+    "var": 0.98
+   }
+  }
+ },
+ {
+  "ad": "fatura_02_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 717,
+  "token": 5101,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.19,
+     "bottom": 0.25,
+     "left": 0.07,
+     "right": 0.27
+    },
+    "guven": 0.51,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.19,
+     "bottom": 0.25,
+     "left": 0.12,
+     "right": 0.34
+    },
+    "guven": 0.7,
+    "var": 0.94
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.23,
+     "bottom": 0.26,
+     "left": 0.23,
+     "right": 0.36
+    },
+    "guven": 0.79,
+    "var": 0.9
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.82,
+     "bottom": 0.86,
+     "left": 0.06,
+     "right": 0.37
+    },
+    "guven": 0.96,
+    "var": 0.99
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.83,
+     "bottom": 0.91,
+     "left": 0.72,
+     "right": 0.93
+    },
+    "guven": 0.86,
+    "var": 0.96
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.48,
+     "bottom": 0.5,
+     "left": 0.78,
+     "right": 0.92
+    },
+    "guven": 0.56,
+    "var": 0.99
+   }
+  }
+ },
+ {
+  "ad": "fatura_03_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 294,
+  "token": 1404,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.16,
+     "bottom": 0.34,
+     "left": 0.06,
+     "right": 0.32
+    },
+    "guven": 0.32,
+    "var": 0.97
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.15,
+     "bottom": 0.43,
+     "left": 0.09,
+     "right": 0.37
+    },
+    "guven": 0.22,
+    "var": 0.92
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.19,
+     "bottom": 0.42,
+     "left": 0.09,
+     "right": 0.36
+    },
+    "guven": 0.25,
+    "var": 0.95
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.78,
+     "bottom": 0.89,
+     "left": 0.03,
+     "right": 0.34
+    },
+    "guven": 0.81,
+    "var": 0.99
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.82,
+     "bottom": 0.89,
+     "left": 0.68,
+     "right": 0.93
+    },
+    "guven": 0.88,
+    "var": 0.96
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.12,
+     "bottom": 0.56,
+     "left": 0.44,
+     "right": 0.54
+    },
+    "guven": 0.1,
+    "var": 0.99
+   }
+  }
+ },
+ {
+  "ad": "fatura_03_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 393,
+  "token": 5329,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.21,
+     "bottom": 0.3,
+     "left": 0.15,
+     "right": 0.82
+    },
+    "guven": 0.41,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.26,
+     "bottom": 0.3,
+     "left": 0.17,
+     "right": 0.35
+    },
+    "guven": 0.47,
+    "var": 0.96
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.31,
+     "left": 0.2,
+     "right": 0.36
+    },
+    "guven": 0.58,
+    "var": 0.91
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.77,
+     "bottom": 0.8,
+     "left": 0.14,
+     "right": 0.41
+    },
+    "guven": 0.95,
+    "var": 0.99
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.75,
+     "bottom": 0.82,
+     "left": 0.67,
+     "right": 0.86
+    },
+    "guven": 0.95,
+    "var": 0.95
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.47,
+     "bottom": 0.49,
+     "left": 0.54,
+     "right": 0.79
+    },
+    "guven": 0.53,
+    "var": 0.99
+   }
+  }
+ },
+ {
+  "ad": "fatura_03_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 595,
+  "token": 5104,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.18,
+     "bottom": 0.24,
+     "left": 0.08,
+     "right": 0.3
+    },
+    "guven": 0.52,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.25,
+     "left": 0.18,
+     "right": 0.34
+    },
+    "guven": 0.56,
+    "var": 0.97
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.23,
+     "bottom": 0.26,
+     "left": 0.22,
+     "right": 0.36
+    },
+    "guven": 0.76,
+    "var": 0.91
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.83,
+     "bottom": 0.86,
+     "left": 0.06,
+     "right": 0.38
+    },
+    "guven": 0.93,
+    "var": 1.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.82,
+     "bottom": 0.91,
+     "left": 0.71,
+     "right": 0.93
+    },
+    "guven": 0.86,
+    "var": 0.95
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.48,
+     "bottom": 0.5,
+     "left": 0.78,
+     "right": 0.92
+    },
+    "guven": 0.35,
+    "var": 0.98
+   }
+  }
+ },
+ {
+  "ad": "fatura_04_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 351,
+  "token": 1407,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.68,
+     "left": 0.07,
+     "right": 0.96
+    },
+    "guven": 0.16,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.26,
+     "left": 0.12,
+     "right": 0.35
+    },
+    "guven": 0.2,
+    "var": 0.93
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.26,
+     "left": 0.12,
+     "right": 0.44
+    },
+    "guven": 0.39,
+    "var": 0.95
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.81,
+     "bottom": 0.91,
+     "left": 0.03,
+     "right": 0.32
+    },
+    "guven": 0.52,
+    "var": 0.99
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.82,
+     "bottom": 0.91,
+     "left": 0.69,
+     "right": 0.92
+    },
+    "guven": 0.74,
+    "var": 0.95
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.64,
+     "bottom": 0.65,
+     "left": 0.44,
+     "right": 0.54
+    },
+    "guven": 0.28,
+    "var": 0.99
+   }
+  }
+ },
+ {
+  "ad": "fatura_04_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 565,
+  "token": 5326,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.21,
+     "bottom": 0.26,
+     "left": 0.16,
+     "right": 0.34
+    },
+    "guven": 0.48,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.24,
+     "bottom": 0.29,
+     "left": 0.28,
+     "right": 0.37
+    },
+    "guven": 0.56,
+    "var": 0.95
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.3,
+     "left": 0.23,
+     "right": 0.41
+    },
+    "guven": 0.82,
+    "var": 0.93
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.77,
+     "bottom": 0.79,
+     "left": 0.15,
+     "right": 0.41
+    },
+    "guven": 0.92,
+    "var": 0.99
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.77,
+     "bottom": 0.84,
+     "left": 0.65,
+     "right": 0.86
+    },
+    "guven": 0.92,
+    "var": 0.94
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.59,
+     "bottom": 0.6,
+     "left": 0.66,
+     "right": 0.84
+    },
+    "guven": 0.47,
+    "var": 0.98
+   }
+  }
+ },
+ {
+  "ad": "fatura_04_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 766,
+  "token": 5101,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.18,
+     "bottom": 0.25,
+     "left": 0.07,
+     "right": 0.95
+    },
+    "guven": 0.3,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.25,
+     "left": 0.18,
+     "right": 0.34
+    },
+    "guven": 0.61,
+    "var": 0.95
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.22,
+     "bottom": 0.26,
+     "left": 0.23,
+     "right": 0.37
+    },
+    "guven": 0.82,
+    "var": 0.92
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.82,
+     "bottom": 0.86,
+     "left": 0.06,
+     "right": 0.38
+    },
+    "guven": 0.95,
+    "var": 1.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.82,
+     "bottom": 0.91,
+     "left": 0.71,
+     "right": 0.95
+    },
+    "guven": 0.82,
+    "var": 0.97
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.62,
+     "bottom": 0.63,
+     "left": 0.77,
+     "right": 0.92
+    },
+    "guven": 0.35,
+    "var": 0.99
+   }
+  }
+ },
+ {
+  "ad": "fatura_05_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 446,
+  "token": 1406,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.75,
+     "left": 0.07,
+     "right": 0.95
+    },
+    "guven": 0.19,
+    "var": 0.97
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.15,
+     "bottom": 0.24,
+     "left": 0.13,
+     "right": 0.32
+    },
+    "guven": 0.28,
+    "var": 0.94
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.53,
+     "bottom": 0.55,
+     "left": 0.1,
+     "right": 0.36
+    },
+    "guven": 0.21,
+    "var": 0.92
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.8,
+     "bottom": 0.9,
+     "left": 0.05,
+     "right": 0.33
+    },
+    "guven": 0.95,
+    "var": 0.99
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.81,
+     "bottom": 0.9,
+     "left": 0.69,
+     "right": 0.93
+    },
+    "guven": 0.85,
+    "var": 0.96
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.57,
+     "bottom": 0.59,
+     "left": 0.42,
+     "right": 0.55
+    },
+    "guven": 0.35,
+    "var": 0.99
+   }
+  }
+ },
+ {
+  "ad": "fatura_05_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 550,
+  "token": 5327,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.22,
+     "bottom": 0.32,
+     "left": 0.18,
+     "right": 0.34
+    },
+    "guven": 0.47,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.29,
+     "left": 0.26,
+     "right": 0.37
+    },
+    "guven": 0.59,
+    "var": 0.98
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.26,
+     "bottom": 0.29,
+     "left": 0.24,
+     "right": 0.41
+    },
+    "guven": 0.87,
+    "var": 0.93
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.78,
+     "bottom": 0.81,
+     "left": 0.14,
+     "right": 0.4
+    },
+    "guven": 0.94,
+    "var": 0.99
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.79,
+     "bottom": 0.84,
+     "left": 0.62,
+     "right": 0.83
+    },
+    "guven": 0.9,
+    "var": 0.96
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.54,
+     "bottom": 0.56,
+     "left": 0.66,
+     "right": 0.81
+    },
+    "guven": 0.44,
+    "var": 0.99
+   }
+  }
+ },
+ {
+  "ad": "fatura_05_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 428,
+  "token": 5103,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.19,
+     "bottom": 0.25,
+     "left": 0.08,
+     "right": 0.28
+    },
+    "guven": 0.52,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.24,
+     "left": 0.18,
+     "right": 0.33
+    },
+    "guven": 0.62,
+    "var": 0.98
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.22,
+     "bottom": 0.26,
+     "left": 0.21,
+     "right": 0.36
+    },
+    "guven": 0.76,
+    "var": 0.87
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.83,
+     "bottom": 0.86,
+     "left": 0.06,
+     "right": 0.38
+    },
+    "guven": 0.96,
+    "var": 1.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.82,
+     "bottom": 0.91,
+     "left": 0.71,
+     "right": 0.95
+    },
+    "guven": 0.85,
+    "var": 0.97
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.54,
+     "bottom": 0.56,
+     "left": 0.79,
+     "right": 0.93
+    },
+    "guven": 0.59,
+    "var": 0.99
+   }
+  }
+ },
+ {
+  "ad": "fatura_06_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 292,
+  "token": 1404,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.34,
+     "left": 0.06,
+     "right": 0.23
+    },
+    "guven": 0.26,
+    "var": 0.97
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.14,
+     "bottom": 0.98,
+     "left": 0.1,
+     "right": 0.35
+    },
+    "guven": 0.07,
+    "var": 0.93
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.14,
+     "bottom": 0.53,
+     "left": 0.12,
+     "right": 0.44
+    },
+    "guven": 0.15,
+    "var": 0.94
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.81,
+     "bottom": 0.89,
+     "left": 0.03,
+     "right": 0.33
+    },
+    "guven": 0.65,
+    "var": 0.99
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.82,
+     "bottom": 0.91,
+     "left": 0.71,
+     "right": 0.92
+    },
+    "guven": 0.86,
+    "var": 0.95
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.57,
+     "bottom": 0.58,
+     "left": 0.43,
+     "right": 0.54
+    },
+    "guven": 0.28,
+    "var": 0.99
+   }
+  }
+ },
+ {
+  "ad": "fatura_06_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 426,
+  "token": 5327,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.22,
+     "bottom": 0.32,
+     "left": 0.17,
+     "right": 0.87
+    },
+    "guven": 0.31,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.24,
+     "bottom": 0.29,
+     "left": 0.22,
+     "right": 0.38
+    },
+    "guven": 0.65,
+    "var": 0.96
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.28,
+     "left": 0.24,
+     "right": 0.41
+    },
+    "guven": 0.86,
+    "var": 0.92
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.77,
+     "bottom": 0.8,
+     "left": 0.13,
+     "right": 0.4
+    },
+    "guven": 0.95,
+    "var": 0.99
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.81,
+     "bottom": 0.86,
+     "left": 0.68,
+     "right": 0.87
+    },
+    "guven": 0.9,
+    "var": 0.95
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.57,
+     "bottom": 0.58,
+     "left": 0.56,
+     "right": 0.86
+    },
+    "guven": 0.36,
+    "var": 0.98
+   }
+  }
+ },
+ {
+  "ad": "fatura_06_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 492,
+  "token": 5105,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.19,
+     "bottom": 0.26,
+     "left": 0.08,
+     "right": 0.24
+    },
+    "guven": 0.46,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.26,
+     "left": 0.14,
+     "right": 0.31
+    },
+    "guven": 0.63,
+    "var": 0.95
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.23,
+     "bottom": 0.26,
+     "left": 0.22,
+     "right": 0.36
+    },
+    "guven": 0.77,
+    "var": 0.93
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.81,
+     "bottom": 0.86,
+     "left": 0.06,
+     "right": 0.38
+    },
+    "guven": 0.96,
+    "var": 1.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.81,
+     "bottom": 0.91,
+     "left": 0.71,
+     "right": 0.95
+    },
+    "guven": 0.85,
+    "var": 0.96
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.57,
+     "bottom": 0.59,
+     "left": 0.77,
+     "right": 0.92
+    },
+    "guven": 0.37,
+    "var": 0.99
+   }
+  }
+ },
+ {
+  "ad": "fatura_07_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 330,
+  "token": 1405,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.19,
+     "bottom": 0.33,
+     "left": 0.05,
+     "right": 0.24
+    },
+    "guven": 0.27,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.14,
+     "bottom": 0.54,
+     "left": 0.13,
+     "right": 0.35
+    },
+    "guven": 0.2,
+    "var": 0.93
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.14,
+     "bottom": 0.19,
+     "left": 0.18,
+     "right": 0.36
+    },
+    "guven": 0.21,
+    "var": 0.93
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.84,
+     "bottom": 0.92,
+     "left": 0.03,
+     "right": 0.34
+    },
+    "guven": 0.89,
+    "var": 1.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.81,
+     "bottom": 0.91,
+     "left": 0.7,
+     "right": 0.95
+    },
+    "guven": 0.74,
+    "var": 0.96
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.63,
+     "bottom": 0.64,
+     "left": 0.45,
+     "right": 0.53
+    },
+    "guven": 0.14,
+    "var": 0.99
+   }
+  }
+ },
+ {
+  "ad": "fatura_07_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 361,
+  "token": 5328,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.21,
+     "bottom": 0.3,
+     "left": 0.16,
+     "right": 0.33
+    },
+    "guven": 0.55,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.3,
+     "left": 0.16,
+     "right": 0.35
+    },
+    "guven": 0.6,
+    "var": 0.96
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.26,
+     "bottom": 0.29,
+     "left": 0.29,
+     "right": 0.42
+    },
+    "guven": 0.83,
+    "var": 0.93
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.78,
+     "bottom": 0.81,
+     "left": 0.14,
+     "right": 0.4
+    },
+    "guven": 0.94,
+    "var": 0.99
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.78,
+     "bottom": 0.84,
+     "left": 0.68,
+     "right": 0.88
+    },
+    "guven": 0.89,
+    "var": 0.96
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.57,
+     "bottom": 0.58,
+     "left": 0.58,
+     "right": 0.85
+    },
+    "guven": 0.4,
+    "var": 0.99
+   }
+  }
+ },
+ {
+  "ad": "fatura_07_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 511,
+  "token": 5102,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.18,
+     "bottom": 0.25,
+     "left": 0.08,
+     "right": 0.3
+    },
+    "guven": 0.48,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.25,
+     "left": 0.11,
+     "right": 0.34
+    },
+    "guven": 0.68,
+    "var": 0.97
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.22,
+     "bottom": 0.25,
+     "left": 0.23,
+     "right": 0.37
+    },
+    "guven": 0.8,
+    "var": 0.93
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.83,
+     "bottom": 0.86,
+     "left": 0.06,
+     "right": 0.38
+    },
+    "guven": 0.95,
+    "var": 1.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.82,
+     "bottom": 0.9,
+     "left": 0.71,
+     "right": 0.95
+    },
+    "guven": 0.86,
+    "var": 0.96
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.57,
+     "bottom": 0.59,
+     "left": 0.78,
+     "right": 0.92
+    },
+    "guven": 0.42,
+    "var": 0.99
+   }
+  }
+ },
+ {
+  "ad": "fatura_08_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 331,
+  "token": 1405,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.19,
+     "bottom": 0.34,
+     "left": 0.07,
+     "right": 0.26
+    },
+    "guven": 0.28,
+    "var": 0.97
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.13,
+     "bottom": 0.54,
+     "left": 0.3,
+     "right": 0.44
+    },
+    "guven": 0.13,
+    "var": 0.96
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.12,
+     "bottom": 0.55,
+     "left": 0.19,
+     "right": 0.45
+    },
+    "guven": 0.06,
+    "var": 0.9
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.84,
+     "bottom": 0.92,
+     "left": 0.04,
+     "right": 0.37
+    },
+    "guven": 0.82,
+    "var": 0.99
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.82,
+     "bottom": 0.92,
+     "left": 0.7,
+     "right": 0.9
+    },
+    "guven": 0.8,
+    "var": 0.96
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.63,
+     "bottom": 0.65,
+     "left": 0.47,
+     "right": 0.54
+    },
+    "guven": 0.18,
+    "var": 0.99
+   }
+  }
+ },
+ {
+  "ad": "fatura_08_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 398,
+  "token": 5325,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.22,
+     "bottom": 0.31,
+     "left": 0.16,
+     "right": 0.85
+    },
+    "guven": 0.32,
+    "var": 0.97
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.3,
+     "left": 0.25,
+     "right": 0.38
+    },
+    "guven": 0.56,
+    "var": 0.97
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.28,
+     "bottom": 0.31,
+     "left": 0.18,
+     "right": 0.42
+    },
+    "guven": 0.82,
+    "var": 0.91
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.79,
+     "bottom": 0.82,
+     "left": 0.19,
+     "right": 0.44
+    },
+    "guven": 0.96,
+    "var": 0.99
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.77,
+     "bottom": 0.83,
+     "left": 0.69,
+     "right": 0.9
+    },
+    "guven": 0.9,
+    "var": 0.94
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.56,
+     "bottom": 0.59,
+     "left": 0.56,
+     "right": 0.85
+    },
+    "guven": 0.47,
+    "var": 0.98
+   }
+  }
+ },
+ {
+  "ad": "fatura_08_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 581,
+  "token": 5104,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.19,
+     "bottom": 0.25,
+     "left": 0.07,
+     "right": 0.35
+    },
+    "guven": 0.27,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.19,
+     "bottom": 0.24,
+     "left": 0.19,
+     "right": 0.35
+    },
+    "guven": 0.63,
+    "var": 0.96
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.22,
+     "bottom": 0.26,
+     "left": 0.23,
+     "right": 0.36
+    },
+    "guven": 0.81,
+    "var": 0.91
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.82,
+     "bottom": 0.86,
+     "left": 0.06,
+     "right": 0.38
+    },
+    "guven": 0.97,
+    "var": 0.99
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.82,
+     "bottom": 0.9,
+     "left": 0.7,
+     "right": 0.95
+    },
+    "guven": 0.86,
+    "var": 0.97
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.58,
+     "bottom": 0.59,
+     "left": 0.78,
+     "right": 0.92
+    },
+    "guven": 0.56,
+    "var": 0.99
+   }
+  }
+ },
+ {
+  "ad": "fatura_09_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 361,
+  "token": 1402,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.57,
+     "left": 0.08,
+     "right": 0.96
+    },
+    "guven": 0.21,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.14,
+     "bottom": 0.55,
+     "left": 0.12,
+     "right": 0.36
+    },
+    "guven": 0.16,
+    "var": 0.97
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.21,
+     "bottom": 0.26,
+     "left": 0.12,
+     "right": 0.45
+    },
+    "guven": 0.14,
+    "var": 0.95
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.82,
+     "bottom": 0.88,
+     "left": 0.07,
+     "right": 0.33
+    },
+    "guven": 0.73,
+    "var": 0.99
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.82,
+     "bottom": 0.9,
+     "left": 0.68,
+     "right": 0.95
+    },
+    "guven": 0.82,
+    "var": 0.96
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.56,
+     "bottom": 0.58,
+     "left": 0.41,
+     "right": 0.53
+    },
+    "guven": 0.45,
+    "var": 0.99
+   }
+  }
+ },
+ {
+  "ad": "fatura_09_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 404,
+  "token": 5326,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.26,
+     "left": 0.16,
+     "right": 0.33
+    },
+    "guven": 0.47,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.24,
+     "bottom": 0.27,
+     "left": 0.21,
+     "right": 0.37
+    },
+    "guven": 0.66,
+    "var": 0.97
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.28,
+     "left": 0.29,
+     "right": 0.38
+    },
+    "guven": 0.74,
+    "var": 0.95
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.78,
+     "bottom": 0.81,
+     "left": 0.13,
+     "right": 0.39
+    },
+    "guven": 0.95,
+    "var": 0.99
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.77,
+     "bottom": 0.84,
+     "left": 0.65,
+     "right": 0.85
+    },
+    "guven": 0.92,
+    "var": 0.96
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.52,
+     "bottom": 0.54,
+     "left": 0.55,
+     "right": 0.81
+    },
+    "guven": 0.51,
+    "var": 0.99
+   }
+  }
+ },
+ {
+  "ad": "fatura_09_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 496,
+  "token": 5102,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.18,
+     "bottom": 0.25,
+     "left": 0.08,
+     "right": 0.27
+    },
+    "guven": 0.54,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.25,
+     "left": 0.14,
+     "right": 0.33
+    },
+    "guven": 0.76,
+    "var": 0.96
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.22,
+     "bottom": 0.26,
+     "left": 0.23,
+     "right": 0.36
+    },
+    "guven": 0.79,
+    "var": 0.94
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.82,
+     "bottom": 0.86,
+     "left": 0.06,
+     "right": 0.38
+    },
+    "guven": 0.96,
+    "var": 1.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.83,
+     "bottom": 0.9,
+     "left": 0.72,
+     "right": 0.94
+    },
+    "guven": 0.87,
+    "var": 0.96
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.54,
+     "bottom": 0.56,
+     "left": 0.78,
+     "right": 0.92
+    },
+    "guven": 0.41,
+    "var": 0.99
+   }
+  }
+ },
+ {
+  "ad": "fatura_10_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 304,
+  "token": 1407,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.15,
+     "bottom": 0.34,
+     "left": 0.07,
+     "right": 0.25
+    },
+    "guven": 0.31,
+    "var": 0.97
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.15,
+     "bottom": 0.98,
+     "left": 0.12,
+     "right": 0.35
+    },
+    "guven": 0.13,
+    "var": 0.95
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.14,
+     "bottom": 0.2,
+     "left": 0.11,
+     "right": 0.45
+    },
+    "guven": 0.18,
+    "var": 0.92
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.82,
+     "bottom": 0.9,
+     "left": 0.04,
+     "right": 0.3
+    },
+    "guven": 0.68,
+    "var": 0.99
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.84,
+     "bottom": 0.91,
+     "left": 0.64,
+     "right": 0.9
+    },
+    "guven": 0.71,
+    "var": 0.95
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.64,
+     "bottom": 0.65,
+     "left": 0.43,
+     "right": 0.53
+    },
+    "guven": 0.36,
+    "var": 0.99
+   }
+  }
+ },
+ {
+  "ad": "fatura_10_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 500,
+  "token": 5327,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.26,
+     "left": 0.16,
+     "right": 0.33
+    },
+    "guven": 0.44,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.29,
+     "left": 0.2,
+     "right": 0.37
+    },
+    "guven": 0.58,
+    "var": 0.97
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.29,
+     "left": 0.29,
+     "right": 0.41
+    },
+    "guven": 0.82,
+    "var": 0.92
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.77,
+     "bottom": 0.8,
+     "left": 0.17,
+     "right": 0.41
+    },
+    "guven": 0.96,
+    "var": 0.99
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.77,
+     "bottom": 0.83,
+     "left": 0.64,
+     "right": 0.83
+    },
+    "guven": 0.93,
+    "var": 0.95
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.59,
+     "bottom": 0.6,
+     "left": 0.58,
+     "right": 0.82
+    },
+    "guven": 0.54,
+    "var": 0.99
+   }
+  }
+ },
+ {
+  "ad": "fatura_10_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 442,
+  "token": 5102,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.18,
+     "bottom": 0.25,
+     "left": 0.07,
+     "right": 0.95
+    },
+    "guven": 0.32,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.25,
+     "left": 0.12,
+     "right": 0.33
+    },
+    "guven": 0.62,
+    "var": 0.97
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.22,
+     "bottom": 0.26,
+     "left": 0.22,
+     "right": 0.37
+    },
+    "guven": 0.78,
+    "var": 0.93
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.83,
+     "bottom": 0.86,
+     "left": 0.06,
+     "right": 0.38
+    },
+    "guven": 0.96,
+    "var": 0.99
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.82,
+     "bottom": 0.91,
+     "left": 0.7,
+     "right": 0.94
+    },
+    "guven": 0.88,
+    "var": 0.95
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.62,
+     "bottom": 0.63,
+     "left": 0.76,
+     "right": 0.91
+    },
+    "guven": 0.35,
+    "var": 0.99
+   }
+  }
+ },
+ {
+  "ad": "form_01_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 283,
+  "token": 1403,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.13,
+     "bottom": 0.2,
+     "left": 0.3,
+     "right": 0.92
+    },
+    "guven": 0.29,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.18,
+     "bottom": 0.24,
+     "left": 0.29,
+     "right": 0.94
+    },
+    "guven": 0.54,
+    "var": 0.92
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.32,
+     "bottom": 0.37,
+     "left": 0.09,
+     "right": 0.94
+    },
+    "guven": 0.53,
+    "var": 0.96
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.45,
+     "left": 0.03,
+     "right": 0.95
+    },
+    "guven": 0.06,
+    "var": 0.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.62,
+     "bottom": 0.69,
+     "left": 0.19,
+     "right": 0.44
+    },
+    "guven": 0.77,
+    "var": 0.96
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.97,
+     "left": 0.03,
+     "right": 0.45
+    },
+    "guven": 0.02,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_01_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 375,
+  "token": 5328,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.24,
+     "left": 0.14,
+     "right": 0.86
+    },
+    "guven": 0.19,
+    "var": 0.99
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.24,
+     "bottom": 0.29,
+     "left": 0.14,
+     "right": 0.87
+    },
+    "guven": 0.36,
+    "var": 0.94
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.35,
+     "bottom": 0.4,
+     "left": 0.32,
+     "right": 0.86
+    },
+    "guven": 0.36,
+    "var": 0.83
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.23,
+     "bottom": 0.45,
+     "left": 0.13,
+     "right": 0.87
+    },
+    "guven": 0.06,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.61,
+     "bottom": 0.65,
+     "left": 0.27,
+     "right": 0.46
+    },
+    "guven": 0.86,
+    "var": 0.98
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.46,
+     "left": 0.1,
+     "right": 0.46
+    },
+    "guven": 0.04,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_01_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 496,
+  "token": 5105,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.14,
+     "bottom": 0.21,
+     "left": 0.34,
+     "right": 0.93
+    },
+    "guven": 0.15,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.26,
+     "left": 0.33,
+     "right": 0.93
+    },
+    "guven": 0.39,
+    "var": 0.96
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.32,
+     "bottom": 0.37,
+     "left": 0.33,
+     "right": 0.49
+    },
+    "guven": 0.27,
+    "var": 0.8
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.33,
+     "bottom": 0.44,
+     "left": 0.04,
+     "right": 0.93
+    },
+    "guven": 0.09,
+    "var": 0.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.62,
+     "bottom": 0.7,
+     "left": 0.19,
+     "right": 0.46
+    },
+    "guven": 0.9,
+    "var": 0.97
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.97,
+     "left": 0.03,
+     "right": 0.47
+    },
+    "guven": 0.02,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_02_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 375,
+  "token": 1405,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.12,
+     "bottom": 0.21,
+     "left": 0.29,
+     "right": 0.93
+    },
+    "guven": 0.18,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.16,
+     "bottom": 0.25,
+     "left": 0.32,
+     "right": 0.94
+    },
+    "guven": 0.55,
+    "var": 0.91
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.32,
+     "bottom": 0.37,
+     "left": 0.31,
+     "right": 0.93
+    },
+    "guven": 0.36,
+    "var": 0.95
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.45,
+     "left": 0.04,
+     "right": 0.95
+    },
+    "guven": 0.06,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.6,
+     "bottom": 0.69,
+     "left": 0.19,
+     "right": 0.45
+    },
+    "guven": 0.81,
+    "var": 0.98
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.53,
+     "left": 0.03,
+     "right": 0.45
+    },
+    "guven": 0.03,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_02_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 500,
+  "token": 5323,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.18,
+     "bottom": 0.23,
+     "left": 0.13,
+     "right": 0.88
+    },
+    "guven": 0.15,
+    "var": 0.99
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.24,
+     "bottom": 0.27,
+     "left": 0.34,
+     "right": 0.88
+    },
+    "guven": 0.36,
+    "var": 0.97
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.35,
+     "bottom": 0.37,
+     "left": 0.35,
+     "right": 0.49
+    },
+    "guven": 0.54,
+    "var": 0.84
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.22,
+     "bottom": 0.45,
+     "left": 0.13,
+     "right": 0.88
+    },
+    "guven": 0.08,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.6,
+     "bottom": 0.65,
+     "left": 0.27,
+     "right": 0.47
+    },
+    "guven": 0.9,
+    "var": 0.98
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.45,
+     "left": 0.05,
+     "right": 0.46
+    },
+    "guven": 0.02,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_02_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 427,
+  "token": 5104,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.14,
+     "bottom": 0.21,
+     "left": 0.33,
+     "right": 0.93
+    },
+    "guven": 0.16,
+    "var": 0.99
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.19,
+     "bottom": 0.25,
+     "left": 0.33,
+     "right": 0.93
+    },
+    "guven": 0.36,
+    "var": 0.96
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.31,
+     "bottom": 0.37,
+     "left": 0.33,
+     "right": 0.93
+    },
+    "guven": 0.24,
+    "var": 0.93
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.54,
+     "left": 0.04,
+     "right": 0.94
+    },
+    "guven": 0.06,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.6,
+     "bottom": 0.69,
+     "left": 0.19,
+     "right": 0.47
+    },
+    "guven": 0.91,
+    "var": 0.98
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.97,
+     "left": 0.03,
+     "right": 0.46
+    },
+    "guven": 0.02,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_03_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 358,
+  "token": 1403,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.13,
+     "bottom": 0.19,
+     "left": 0.29,
+     "right": 0.93
+    },
+    "guven": 0.2,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.18,
+     "bottom": 0.24,
+     "left": 0.32,
+     "right": 0.93
+    },
+    "guven": 0.4,
+    "var": 0.9
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.32,
+     "bottom": 0.37,
+     "left": 0.32,
+     "right": 0.93
+    },
+    "guven": 0.35,
+    "var": 0.93
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.45,
+     "left": 0.04,
+     "right": 0.95
+    },
+    "guven": 0.06,
+    "var": 0.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.6,
+     "bottom": 0.69,
+     "left": 0.18,
+     "right": 0.46
+    },
+    "guven": 0.85,
+    "var": 0.97
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.96,
+     "left": 0.04,
+     "right": 0.46
+    },
+    "guven": 0.02,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_03_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 377,
+  "token": 5326,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.18,
+     "bottom": 0.22,
+     "left": 0.16,
+     "right": 0.85
+    },
+    "guven": 0.19,
+    "var": 0.99
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.22,
+     "bottom": 0.26,
+     "left": 0.3,
+     "right": 0.85
+    },
+    "guven": 0.38,
+    "var": 0.97
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.33,
+     "bottom": 0.38,
+     "left": 0.2,
+     "right": 0.85
+    },
+    "guven": 0.42,
+    "var": 0.91
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.23,
+     "bottom": 0.54,
+     "left": 0.19,
+     "right": 0.85
+    },
+    "guven": 0.07,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.6,
+     "bottom": 0.64,
+     "left": 0.27,
+     "right": 0.48
+    },
+    "guven": 0.84,
+    "var": 0.97
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.45,
+     "left": 0.11,
+     "right": 0.46
+    },
+    "guven": 0.03,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_03_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 446,
+  "token": 5104,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.14,
+     "bottom": 0.2,
+     "left": 0.33,
+     "right": 0.93
+    },
+    "guven": 0.13,
+    "var": 0.99
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.19,
+     "bottom": 0.25,
+     "left": 0.08,
+     "right": 0.93
+    },
+    "guven": 0.53,
+    "var": 0.96
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.32,
+     "bottom": 0.36,
+     "left": 0.33,
+     "right": 0.48
+    },
+    "guven": 0.26,
+    "var": 0.86
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.45,
+     "left": 0.04,
+     "right": 0.95
+    },
+    "guven": 0.05,
+    "var": 0.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.62,
+     "bottom": 0.7,
+     "left": 0.19,
+     "right": 0.46
+    },
+    "guven": 0.89,
+    "var": 0.98
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.03,
+     "bottom": 0.97,
+     "left": 0.03,
+     "right": 0.46
+    },
+    "guven": 0.03,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_04_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 304,
+  "token": 1401,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.13,
+     "bottom": 0.23,
+     "left": 0.33,
+     "right": 0.54
+    },
+    "guven": 0.25,
+    "var": 0.99
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.18,
+     "bottom": 0.25,
+     "left": 0.33,
+     "right": 0.94
+    },
+    "guven": 0.56,
+    "var": 0.91
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.32,
+     "bottom": 0.37,
+     "left": 0.31,
+     "right": 0.94
+    },
+    "guven": 0.36,
+    "var": 0.85
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.22,
+     "bottom": 0.44,
+     "left": 0.04,
+     "right": 0.94
+    },
+    "guven": 0.13,
+    "var": 0.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.6,
+     "bottom": 0.69,
+     "left": 0.19,
+     "right": 0.46
+    },
+    "guven": 0.83,
+    "var": 0.97
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.03,
+     "bottom": 0.45,
+     "left": 0.03,
+     "right": 0.45
+    },
+    "guven": 0.04,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_04_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 390,
+  "token": 5328,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.18,
+     "bottom": 0.24,
+     "left": 0.34,
+     "right": 0.53
+    },
+    "guven": 0.31,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.23,
+     "bottom": 0.27,
+     "left": 0.34,
+     "right": 0.89
+    },
+    "guven": 0.32,
+    "var": 0.96
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.34,
+     "bottom": 0.37,
+     "left": 0.36,
+     "right": 0.51
+    },
+    "guven": 0.6,
+    "var": 0.85
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.22,
+     "bottom": 0.45,
+     "left": 0.19,
+     "right": 0.88
+    },
+    "guven": 0.08,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.58,
+     "bottom": 0.63,
+     "left": 0.26,
+     "right": 0.47
+    },
+    "guven": 0.83,
+    "var": 0.97
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.53,
+     "left": 0.12,
+     "right": 0.46
+    },
+    "guven": 0.03,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_04_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 483,
+  "token": 5102,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.14,
+     "bottom": 0.21,
+     "left": 0.34,
+     "right": 0.93
+    },
+    "guven": 0.15,
+    "var": 0.99
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.25,
+     "left": 0.34,
+     "right": 0.94
+    },
+    "guven": 0.36,
+    "var": 0.96
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.32,
+     "bottom": 0.36,
+     "left": 0.33,
+     "right": 0.5
+    },
+    "guven": 0.39,
+    "var": 0.75
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.45,
+     "left": 0.04,
+     "right": 0.95
+    },
+    "guven": 0.04,
+    "var": 0.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.62,
+     "bottom": 0.69,
+     "left": 0.18,
+     "right": 0.46
+    },
+    "guven": 0.89,
+    "var": 0.98
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.97,
+     "left": 0.03,
+     "right": 0.47
+    },
+    "guven": 0.03,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_05_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 403,
+  "token": 1403,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.12,
+     "bottom": 0.21,
+     "left": 0.11,
+     "right": 0.45
+    },
+    "guven": 0.2,
+    "var": 0.99
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.18,
+     "bottom": 0.25,
+     "left": 0.33,
+     "right": 0.95
+    },
+    "guven": 0.56,
+    "var": 0.89
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.32,
+     "bottom": 0.37,
+     "left": 0.08,
+     "right": 0.94
+    },
+    "guven": 0.57,
+    "var": 0.91
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.45,
+     "left": 0.04,
+     "right": 0.95
+    },
+    "guven": 0.06,
+    "var": 0.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.62,
+     "bottom": 0.68,
+     "left": 0.17,
+     "right": 0.47
+    },
+    "guven": 0.82,
+    "var": 0.96
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.03,
+     "bottom": 0.45,
+     "left": 0.03,
+     "right": 0.45
+    },
+    "guven": 0.04,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_05_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 514,
+  "token": 5324,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.26,
+     "left": 0.11,
+     "right": 0.84
+    },
+    "guven": 0.21,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.3,
+     "left": 0.12,
+     "right": 0.85
+    },
+    "guven": 0.31,
+    "var": 0.95
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.38,
+     "bottom": 0.42,
+     "left": 0.12,
+     "right": 0.84
+    },
+    "guven": 0.41,
+    "var": 0.86
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.23,
+     "bottom": 0.44,
+     "left": 0.1,
+     "right": 0.82
+    },
+    "guven": 0.12,
+    "var": 0.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.64,
+     "bottom": 0.71,
+     "left": 0.27,
+     "right": 0.48
+    },
+    "guven": 0.84,
+    "var": 0.97
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.45,
+     "left": 0.04,
+     "right": 0.86
+    },
+    "guven": 0.03,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_05_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 612,
+  "token": 5101,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.14,
+     "bottom": 0.23,
+     "left": 0.33,
+     "right": 0.93
+    },
+    "guven": 0.15,
+    "var": 0.99
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.26,
+     "left": 0.34,
+     "right": 0.94
+    },
+    "guven": 0.44,
+    "var": 0.95
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.32,
+     "bottom": 0.37,
+     "left": 0.33,
+     "right": 0.49
+    },
+    "guven": 0.26,
+    "var": 0.81
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.23,
+     "bottom": 0.45,
+     "left": 0.04,
+     "right": 0.95
+    },
+    "guven": 0.08,
+    "var": 0.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.61,
+     "bottom": 0.69,
+     "left": 0.18,
+     "right": 0.47
+    },
+    "guven": 0.9,
+    "var": 0.98
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.97,
+     "left": 0.03,
+     "right": 0.46
+    },
+    "guven": 0.02,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_06_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 447,
+  "token": 1403,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.13,
+     "bottom": 0.21,
+     "left": 0.3,
+     "right": 0.51
+    },
+    "guven": 0.18,
+    "var": 0.99
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.19,
+     "bottom": 0.25,
+     "left": 0.34,
+     "right": 0.95
+    },
+    "guven": 0.56,
+    "var": 0.92
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.33,
+     "bottom": 0.38,
+     "left": 0.31,
+     "right": 0.93
+    },
+    "guven": 0.37,
+    "var": 0.94
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.45,
+     "left": 0.04,
+     "right": 0.95
+    },
+    "guven": 0.05,
+    "var": 0.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.62,
+     "bottom": 0.69,
+     "left": 0.18,
+     "right": 0.46
+    },
+    "guven": 0.83,
+    "var": 0.97
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.03,
+     "bottom": 0.97,
+     "left": 0.04,
+     "right": 0.46
+    },
+    "guven": 0.02,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_06_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 438,
+  "token": 5329,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.15,
+     "bottom": 0.21,
+     "left": 0.33,
+     "right": 0.48
+    },
+    "guven": 0.29,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.21,
+     "bottom": 0.25,
+     "left": 0.34,
+     "right": 0.51
+    },
+    "guven": 0.49,
+    "var": 0.97
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.32,
+     "bottom": 0.37,
+     "left": 0.36,
+     "right": 0.51
+    },
+    "guven": 0.69,
+    "var": 0.85
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.22,
+     "bottom": 0.44,
+     "left": 0.19,
+     "right": 0.86
+    },
+    "guven": 0.08,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.59,
+     "bottom": 0.64,
+     "left": 0.27,
+     "right": 0.48
+    },
+    "guven": 0.87,
+    "var": 0.98
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.46,
+     "left": 0.21,
+     "right": 0.46
+    },
+    "guven": 0.04,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_06_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 433,
+  "token": 5105,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.14,
+     "bottom": 0.2,
+     "left": 0.33,
+     "right": 0.46
+    },
+    "guven": 0.14,
+    "var": 0.99
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.19,
+     "bottom": 0.25,
+     "left": 0.34,
+     "right": 0.93
+    },
+    "guven": 0.38,
+    "var": 0.97
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.32,
+     "bottom": 0.37,
+     "left": 0.33,
+     "right": 0.49
+    },
+    "guven": 0.31,
+    "var": 0.86
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.45,
+     "left": 0.04,
+     "right": 0.94
+    },
+    "guven": 0.04,
+    "var": 0.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.61,
+     "bottom": 0.7,
+     "left": 0.19,
+     "right": 0.47
+    },
+    "guven": 0.91,
+    "var": 0.98
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.97,
+     "left": 0.03,
+     "right": 0.47
+    },
+    "guven": 0.02,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_07_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 352,
+  "token": 1404,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.13,
+     "bottom": 0.22,
+     "left": 0.29,
+     "right": 0.93
+    },
+    "guven": 0.09,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.18,
+     "bottom": 0.25,
+     "left": 0.08,
+     "right": 0.94
+    },
+    "guven": 0.69,
+    "var": 0.94
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.32,
+     "bottom": 0.37,
+     "left": 0.09,
+     "right": 0.94
+    },
+    "guven": 0.47,
+    "var": 0.92
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.54,
+     "left": 0.04,
+     "right": 0.95
+    },
+    "guven": 0.05,
+    "var": 0.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.62,
+     "bottom": 0.68,
+     "left": 0.19,
+     "right": 0.47
+    },
+    "guven": 0.82,
+    "var": 0.98
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.03,
+     "bottom": 0.53,
+     "left": 0.03,
+     "right": 0.46
+    },
+    "guven": 0.03,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_07_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 420,
+  "token": 5323,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.25,
+     "left": 0.3,
+     "right": 0.86
+    },
+    "guven": 0.29,
+    "var": 0.99
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.24,
+     "bottom": 0.29,
+     "left": 0.33,
+     "right": 0.86
+    },
+    "guven": 0.48,
+    "var": 0.97
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.36,
+     "bottom": 0.4,
+     "left": 0.34,
+     "right": 0.86
+    },
+    "guven": 0.41,
+    "var": 0.86
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.22,
+     "bottom": 0.45,
+     "left": 0.15,
+     "right": 0.86
+    },
+    "guven": 0.07,
+    "var": 0.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.61,
+     "bottom": 0.66,
+     "left": 0.27,
+     "right": 0.47
+    },
+    "guven": 0.84,
+    "var": 0.97
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.96,
+     "left": 0.11,
+     "right": 0.46
+    },
+    "guven": 0.02,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_07_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 404,
+  "token": 5103,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.14,
+     "bottom": 0.21,
+     "left": 0.33,
+     "right": 0.93
+    },
+    "guven": 0.16,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.19,
+     "bottom": 0.25,
+     "left": 0.33,
+     "right": 0.94
+    },
+    "guven": 0.42,
+    "var": 0.98
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.32,
+     "bottom": 0.37,
+     "left": 0.33,
+     "right": 0.49
+    },
+    "guven": 0.3,
+    "var": 0.8
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.45,
+     "left": 0.04,
+     "right": 0.95
+    },
+    "guven": 0.04,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.61,
+     "bottom": 0.7,
+     "left": 0.19,
+     "right": 0.46
+    },
+    "guven": 0.91,
+    "var": 0.97
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.97,
+     "left": 0.03,
+     "right": 0.46
+    },
+    "guven": 0.02,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_08_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 317,
+  "token": 1405,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.13,
+     "bottom": 0.21,
+     "left": 0.29,
+     "right": 0.92
+    },
+    "guven": 0.15,
+    "var": 0.99
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.18,
+     "bottom": 0.23,
+     "left": 0.11,
+     "right": 0.93
+    },
+    "guven": 0.46,
+    "var": 0.9
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.31,
+     "bottom": 0.37,
+     "left": 0.08,
+     "right": 0.94
+    },
+    "guven": 0.35,
+    "var": 0.9
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.45,
+     "left": 0.04,
+     "right": 0.95
+    },
+    "guven": 0.07,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.62,
+     "bottom": 0.68,
+     "left": 0.18,
+     "right": 0.47
+    },
+    "guven": 0.81,
+    "var": 0.97
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.96,
+     "left": 0.04,
+     "right": 0.45
+    },
+    "guven": 0.02,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_08_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 377,
+  "token": 5328,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.16,
+     "bottom": 0.21,
+     "left": 0.15,
+     "right": 0.81
+    },
+    "guven": 0.28,
+    "var": 0.99
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.21,
+     "bottom": 0.26,
+     "left": 0.33,
+     "right": 0.83
+    },
+    "guven": 0.3,
+    "var": 0.96
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.32,
+     "bottom": 0.37,
+     "left": 0.14,
+     "right": 0.82
+    },
+    "guven": 0.42,
+    "var": 0.83
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.22,
+     "bottom": 0.45,
+     "left": 0.13,
+     "right": 0.81
+    },
+    "guven": 0.08,
+    "var": 0.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.59,
+     "bottom": 0.63,
+     "left": 0.25,
+     "right": 0.47
+    },
+    "guven": 0.88,
+    "var": 0.98
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.95,
+     "left": 0.1,
+     "right": 0.79
+    },
+    "guven": 0.02,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_08_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 450,
+  "token": 5102,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.14,
+     "bottom": 0.22,
+     "left": 0.33,
+     "right": 0.93
+    },
+    "guven": 0.14,
+    "var": 0.99
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.25,
+     "left": 0.34,
+     "right": 0.93
+    },
+    "guven": 0.35,
+    "var": 0.96
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.32,
+     "bottom": 0.36,
+     "left": 0.33,
+     "right": 0.51
+    },
+    "guven": 0.32,
+    "var": 0.77
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.45,
+     "left": 0.04,
+     "right": 0.95
+    },
+    "guven": 0.06,
+    "var": 0.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.62,
+     "bottom": 0.69,
+     "left": 0.18,
+     "right": 0.47
+    },
+    "guven": 0.89,
+    "var": 0.97
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.97,
+     "left": 0.03,
+     "right": 0.47
+    },
+    "guven": 0.02,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_09_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 351,
+  "token": 1403,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.13,
+     "bottom": 0.21,
+     "left": 0.29,
+     "right": 0.51
+    },
+    "guven": 0.3,
+    "var": 0.99
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.18,
+     "bottom": 0.25,
+     "left": 0.07,
+     "right": 0.94
+    },
+    "guven": 0.7,
+    "var": 0.93
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.32,
+     "bottom": 0.37,
+     "left": 0.31,
+     "right": 0.93
+    },
+    "guven": 0.35,
+    "var": 0.94
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.44,
+     "left": 0.04,
+     "right": 0.94
+    },
+    "guven": 0.08,
+    "var": 0.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.6,
+     "bottom": 0.69,
+     "left": 0.18,
+     "right": 0.47
+    },
+    "guven": 0.88,
+    "var": 0.98
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.46,
+     "left": 0.04,
+     "right": 0.45
+    },
+    "guven": 0.04,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_09_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 442,
+  "token": 5323,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.18,
+     "bottom": 0.23,
+     "left": 0.14,
+     "right": 0.85
+    },
+    "guven": 0.18,
+    "var": 0.99
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.23,
+     "bottom": 0.27,
+     "left": 0.34,
+     "right": 0.85
+    },
+    "guven": 0.38,
+    "var": 0.97
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.34,
+     "bottom": 0.38,
+     "left": 0.35,
+     "right": 0.86
+    },
+    "guven": 0.33,
+    "var": 0.83
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.23,
+     "bottom": 0.53,
+     "left": 0.12,
+     "right": 0.86
+    },
+    "guven": 0.06,
+    "var": 0.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.6,
+     "bottom": 0.64,
+     "left": 0.26,
+     "right": 0.47
+    },
+    "guven": 0.88,
+    "var": 0.98
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.46,
+     "left": 0.09,
+     "right": 0.45
+    },
+    "guven": 0.03,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_09_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 474,
+  "token": 5100,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.14,
+     "bottom": 0.21,
+     "left": 0.08,
+     "right": 0.94
+    },
+    "guven": 0.17,
+    "var": 0.99
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.2,
+     "bottom": 0.25,
+     "left": 0.34,
+     "right": 0.93
+    },
+    "guven": 0.37,
+    "var": 0.97
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.32,
+     "bottom": 0.37,
+     "left": 0.33,
+     "right": 0.49
+    },
+    "guven": 0.26,
+    "var": 0.89
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.45,
+     "left": 0.04,
+     "right": 0.95
+    },
+    "guven": 0.06,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.61,
+     "bottom": 0.7,
+     "left": 0.19,
+     "right": 0.46
+    },
+    "guven": 0.91,
+    "var": 0.97
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.97,
+     "left": 0.03,
+     "right": 0.46
+    },
+    "guven": 0.02,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_10_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 381,
+  "token": 1408,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.13,
+     "bottom": 0.22,
+     "left": 0.3,
+     "right": 0.93
+    },
+    "guven": 0.13,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.18,
+     "bottom": 0.25,
+     "left": 0.33,
+     "right": 0.95
+    },
+    "guven": 0.79,
+    "var": 0.95
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.31,
+     "bottom": 0.36,
+     "left": 0.32,
+     "right": 0.94
+    },
+    "guven": 0.28,
+    "var": 0.9
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.45,
+     "left": 0.03,
+     "right": 0.95
+    },
+    "guven": 0.06,
+    "var": 0.0
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.62,
+     "bottom": 0.69,
+     "left": 0.16,
+     "right": 0.47
+    },
+    "guven": 0.78,
+    "var": 0.98
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.03,
+     "bottom": 0.97,
+     "left": 0.03,
+     "right": 0.45
+    },
+    "guven": 0.02,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_10_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 494,
+  "token": 5325,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.18,
+     "bottom": 0.23,
+     "left": 0.33,
+     "right": 0.85
+    },
+    "guven": 0.28,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.22,
+     "bottom": 0.26,
+     "left": 0.34,
+     "right": 0.85
+    },
+    "guven": 0.46,
+    "var": 0.96
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.33,
+     "bottom": 0.38,
+     "left": 0.32,
+     "right": 0.49
+    },
+    "guven": 0.42,
+    "var": 0.85
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.23,
+     "bottom": 0.45,
+     "left": 0.15,
+     "right": 0.82
+    },
+    "guven": 0.07,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.59,
+     "bottom": 0.64,
+     "left": 0.27,
+     "right": 0.47
+    },
+    "guven": 0.88,
+    "var": 0.98
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.95,
+     "left": 0.11,
+     "right": 0.45
+    },
+    "guven": 0.03,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "form_10_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 539,
+  "token": 5101,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.14,
+     "bottom": 0.21,
+     "left": 0.33,
+     "right": 0.93
+    },
+    "guven": 0.16,
+    "var": 0.99
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.19,
+     "bottom": 0.25,
+     "left": 0.33,
+     "right": 0.93
+    },
+    "guven": 0.37,
+    "var": 0.97
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.32,
+     "bottom": 0.37,
+     "left": 0.33,
+     "right": 0.93
+    },
+    "guven": 0.21,
+    "var": 0.85
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.45,
+     "left": 0.04,
+     "right": 0.95
+    },
+    "guven": 0.05,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.61,
+     "bottom": 0.7,
+     "left": 0.17,
+     "right": 0.46
+    },
+    "guven": 0.92,
+    "var": 0.98
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.97,
+     "left": 0.03,
+     "right": 0.46
+    },
+    "guven": 0.02,
+    "var": 0.01
+   }
+  }
+ },
+ {
+  "ad": "kargo_01_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 301,
+  "token": 1357,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.44,
+     "left": 0.04,
+     "right": 0.23
+    },
+    "guven": 0.29,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.54,
+     "left": 0.05,
+     "right": 0.32
+    },
+    "guven": 0.04,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.42,
+     "bottom": 0.51,
+     "left": 0.1,
+     "right": 0.3
+    },
+    "guven": 0.8,
+    "var": 0.87
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.53,
+     "left": 0.03,
+     "right": 0.46
+    },
+    "guven": 0.04,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.04,
+     "right": 0.45
+    },
+    "guven": 0.02,
+    "var": 0.02
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.53,
+     "left": 0.05,
+     "right": 0.13
+    },
+    "guven": 0.02,
+    "var": 0.03
+   }
+  }
+ },
+ {
+  "ad": "kargo_01_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 499,
+  "token": 5327,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.35,
+     "bottom": 0.43,
+     "left": 0.09,
+     "right": 0.26
+    },
+    "guven": 0.67,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.23,
+     "bottom": 0.45,
+     "left": 0.09,
+     "right": 0.25
+    },
+    "guven": 0.12,
+    "var": 0.01
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.51,
+     "bottom": 0.53,
+     "left": 0.11,
+     "right": 0.29
+    },
+    "guven": 0.94,
+    "var": 0.89
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.45,
+     "left": 0.07,
+     "right": 0.44
+    },
+    "guven": 0.03,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.33,
+     "bottom": 0.53,
+     "left": 0.52,
+     "right": 0.53
+    },
+    "guven": 0.06,
+    "var": 0.02
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.4,
+     "bottom": 0.46,
+     "left": 0.12,
+     "right": 0.21
+    },
+    "guven": 0.06,
+    "var": 0.03
+   }
+  }
+ },
+ {
+  "ad": "kargo_01_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 469,
+  "token": 4878,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.34,
+     "left": 0.04,
+     "right": 0.23
+    },
+    "guven": 0.56,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.55,
+     "left": 0.05,
+     "right": 0.23
+    },
+    "guven": 0.04,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.46,
+     "bottom": 0.5,
+     "left": 0.06,
+     "right": 0.24
+    },
+    "guven": 0.95,
+    "var": 0.9
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.03,
+     "right": 0.45
+    },
+    "guven": 0.04,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.55,
+     "left": 0.03,
+     "right": 0.33
+    },
+    "guven": 0.03,
+    "var": 0.02
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.96,
+     "left": 0.04,
+     "right": 0.12
+    },
+    "guven": 0.02,
+    "var": 0.02
+   }
+  }
+ },
+ {
+  "ad": "kargo_02_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 379,
+  "token": 1358,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.44,
+     "left": 0.04,
+     "right": 0.25
+    },
+    "guven": 0.26,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.34,
+     "left": 0.04,
+     "right": 0.14
+    },
+    "guven": 0.03,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.41,
+     "bottom": 0.5,
+     "left": 0.07,
+     "right": 0.3
+    },
+    "guven": 0.9,
+    "var": 0.92
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.03,
+     "right": 0.45
+    },
+    "guven": 0.03,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.04,
+     "right": 0.44
+    },
+    "guven": 0.02,
+    "var": 0.02
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.21,
+     "bottom": 0.46,
+     "left": 0.1,
+     "right": 0.15
+    },
+    "guven": 0.05,
+    "var": 0.04
+   }
+  }
+ },
+ {
+  "ad": "kargo_02_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 397,
+  "token": 5328,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.3,
+     "bottom": 0.37,
+     "left": 0.09,
+     "right": 0.27
+    },
+    "guven": 0.67,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.33,
+     "bottom": 0.45,
+     "left": 0.1,
+     "right": 0.31
+    },
+    "guven": 0.13,
+    "var": 0.01
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.46,
+     "bottom": 0.49,
+     "left": 0.1,
+     "right": 0.27
+    },
+    "guven": 0.95,
+    "var": 0.9
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.45,
+     "bottom": 0.45,
+     "left": 0.08,
+     "right": 0.44
+    },
+    "guven": 0.07,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.33,
+     "bottom": 0.45,
+     "left": 0.09,
+     "right": 0.43
+    },
+    "guven": 0.06,
+    "var": 0.02
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.67,
+     "bottom": 0.69,
+     "left": 0.1,
+     "right": 0.21
+    },
+    "guven": 0.2,
+    "var": 0.05
+   }
+  }
+ },
+ {
+  "ad": "kargo_02_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 439,
+  "token": 4879,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.24,
+     "bottom": 0.33,
+     "left": 0.04,
+     "right": 0.25
+    },
+    "guven": 0.48,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.54,
+     "left": 0.05,
+     "right": 0.33
+    },
+    "guven": 0.04,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.46,
+     "bottom": 0.5,
+     "left": 0.05,
+     "right": 0.25
+    },
+    "guven": 0.94,
+    "var": 0.89
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.03,
+     "right": 0.45
+    },
+    "guven": 0.05,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.55,
+     "left": 0.03,
+     "right": 0.33
+    },
+    "guven": 0.03,
+    "var": 0.02
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.78,
+     "bottom": 0.79,
+     "left": 0.07,
+     "right": 0.13
+    },
+    "guven": 0.11,
+    "var": 0.03
+   }
+  }
+ },
+ {
+  "ad": "kargo_03_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 275,
+  "token": 1358,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.43,
+     "bottom": 0.54,
+     "left": 0.05,
+     "right": 0.3
+    },
+    "guven": 0.31,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.54,
+     "left": 0.05,
+     "right": 0.34
+    },
+    "guven": 0.04,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.44,
+     "bottom": 0.52,
+     "left": 0.07,
+     "right": 0.3
+    },
+    "guven": 0.94,
+    "var": 0.87
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.53,
+     "left": 0.02,
+     "right": 0.45
+    },
+    "guven": 0.04,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.04,
+     "right": 0.45
+    },
+    "guven": 0.02,
+    "var": 0.01
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.54,
+     "left": 0.05,
+     "right": 0.14
+    },
+    "guven": 0.02,
+    "var": 0.02
+   }
+  }
+ },
+ {
+  "ad": "kargo_03_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 398,
+  "token": 5325,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.26,
+     "bottom": 0.35,
+     "left": 0.1,
+     "right": 0.29
+    },
+    "guven": 0.7,
+    "var": 0.97
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.33,
+     "bottom": 0.45,
+     "left": 0.11,
+     "right": 0.31
+    },
+    "guven": 0.13,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.44,
+     "bottom": 0.49,
+     "left": 0.12,
+     "right": 0.29
+    },
+    "guven": 0.92,
+    "var": 0.9
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.45,
+     "bottom": 0.46,
+     "left": 0.08,
+     "right": 0.34
+    },
+    "guven": 0.09,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.54,
+     "left": 0.09,
+     "right": 0.33
+    },
+    "guven": 0.03,
+    "var": 0.02
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.66,
+     "bottom": 0.72,
+     "left": 0.12,
+     "right": 0.24
+    },
+    "guven": 0.08,
+    "var": 0.02
+   }
+  }
+ },
+ {
+  "ad": "kargo_03_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 422,
+  "token": 4878,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.34,
+     "left": 0.04,
+     "right": 0.24
+    },
+    "guven": 0.48,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.54,
+     "left": 0.05,
+     "right": 0.24
+    },
+    "guven": 0.04,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.46,
+     "bottom": 0.5,
+     "left": 0.06,
+     "right": 0.25
+    },
+    "guven": 0.92,
+    "var": 0.84
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.03,
+     "right": 0.46
+    },
+    "guven": 0.05,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.04,
+     "right": 0.53
+    },
+    "guven": 0.02,
+    "var": 0.02
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.55,
+     "bottom": 0.96,
+     "left": 0.05,
+     "right": 0.12
+    },
+    "guven": 0.04,
+    "var": 0.03
+   }
+  }
+ },
+ {
+  "ad": "kargo_04_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 391,
+  "token": 1360,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.23,
+     "bottom": 0.44,
+     "left": 0.04,
+     "right": 0.32
+    },
+    "guven": 0.43,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.54,
+     "left": 0.05,
+     "right": 0.44
+    },
+    "guven": 0.03,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.4,
+     "bottom": 0.49,
+     "left": 0.09,
+     "right": 0.29
+    },
+    "guven": 0.83,
+    "var": 0.88
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.03,
+     "right": 0.45
+    },
+    "guven": 0.04,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.04,
+     "right": 0.44
+    },
+    "guven": 0.02,
+    "var": 0.02
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.11,
+     "bottom": 0.46,
+     "left": 0.09,
+     "right": 0.14
+    },
+    "guven": 0.05,
+    "var": 0.03
+   }
+  }
+ },
+ {
+  "ad": "kargo_04_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 429,
+  "token": 5330,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.34,
+     "bottom": 0.41,
+     "left": 0.1,
+     "right": 0.31
+    },
+    "guven": 0.67,
+    "var": 0.97
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.33,
+     "bottom": 0.45,
+     "left": 0.11,
+     "right": 0.31
+    },
+    "guven": 0.1,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.48,
+     "bottom": 0.51,
+     "left": 0.12,
+     "right": 0.29
+    },
+    "guven": 0.93,
+    "var": 0.85
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.45,
+     "bottom": 0.45,
+     "left": 0.08,
+     "right": 0.44
+    },
+    "guven": 0.06,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.45,
+     "left": 0.52,
+     "right": 0.53
+    },
+    "guven": 0.04,
+    "var": 0.02
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.67,
+     "bottom": 0.67,
+     "left": 0.12,
+     "right": 0.23
+    },
+    "guven": 0.09,
+    "var": 0.03
+   }
+  }
+ },
+ {
+  "ad": "kargo_04_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 624,
+  "token": 4881,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.34,
+     "left": 0.04,
+     "right": 0.29
+    },
+    "guven": 0.51,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.55,
+     "left": 0.08,
+     "right": 0.23
+    },
+    "guven": 0.04,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.46,
+     "bottom": 0.5,
+     "left": 0.06,
+     "right": 0.25
+    },
+    "guven": 0.92,
+    "var": 0.92
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.03,
+     "right": 0.45
+    },
+    "guven": 0.04,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.03,
+     "right": 0.33
+    },
+    "guven": 0.02,
+    "var": 0.02
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.86,
+     "bottom": 0.95,
+     "left": 0.05,
+     "right": 0.12
+    },
+    "guven": 0.03,
+    "var": 0.03
+   }
+  }
+ },
+ {
+  "ad": "kargo_05_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 389,
+  "token": 1360,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.24,
+     "bottom": 0.43,
+     "left": 0.04,
+     "right": 0.23
+    },
+    "guven": 0.34,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.04,
+     "right": 0.52
+    },
+    "guven": 0.03,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.51,
+     "bottom": 0.54,
+     "left": 0.08,
+     "right": 0.31
+    },
+    "guven": 0.62,
+    "var": 0.91
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.53,
+     "left": 0.02,
+     "right": 0.46
+    },
+    "guven": 0.05,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.04,
+     "right": 0.45
+    },
+    "guven": 0.02,
+    "var": 0.02
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.03,
+     "bottom": 0.46,
+     "left": 0.04,
+     "right": 0.44
+    },
+    "guven": 0.02,
+    "var": 0.02
+   }
+  }
+ },
+ {
+  "ad": "kargo_05_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 418,
+  "token": 5329,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.36,
+     "bottom": 0.42,
+     "left": 0.12,
+     "right": 0.28
+    },
+    "guven": 0.84,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.23,
+     "bottom": 0.45,
+     "left": 0.12,
+     "right": 0.32
+    },
+    "guven": 0.11,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.49,
+     "bottom": 0.52,
+     "left": 0.13,
+     "right": 0.3
+    },
+    "guven": 0.94,
+    "var": 0.84
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.45,
+     "bottom": 0.46,
+     "left": 0.05,
+     "right": 0.44
+    },
+    "guven": 0.07,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.44,
+     "left": 0.11,
+     "right": 0.45
+    },
+    "guven": 0.04,
+    "var": 0.02
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.46,
+     "bottom": 0.46,
+     "left": 0.12,
+     "right": 0.33
+    },
+    "guven": 0.08,
+    "var": 0.03
+   }
+  }
+ },
+ {
+  "ad": "kargo_05_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 492,
+  "token": 4877,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.34,
+     "left": 0.04,
+     "right": 0.23
+    },
+    "guven": 0.51,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.54,
+     "left": 0.05,
+     "right": 0.24
+    },
+    "guven": 0.04,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.46,
+     "bottom": 0.5,
+     "left": 0.06,
+     "right": 0.25
+    },
+    "guven": 0.93,
+    "var": 0.89
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.45,
+     "bottom": 0.53,
+     "left": 0.03,
+     "right": 0.44
+    },
+    "guven": 0.06,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.03,
+     "right": 0.33
+    },
+    "guven": 0.03,
+    "var": 0.02
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.46,
+     "bottom": 0.46,
+     "left": 0.05,
+     "right": 0.13
+    },
+    "guven": 0.05,
+    "var": 0.03
+   }
+  }
+ },
+ {
+  "ad": "kargo_06_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 394,
+  "token": 1357,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.34,
+     "bottom": 0.45,
+     "left": 0.04,
+     "right": 0.24
+    },
+    "guven": 0.35,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.54,
+     "left": 0.05,
+     "right": 0.44
+    },
+    "guven": 0.03,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.47,
+     "bottom": 0.53,
+     "left": 0.07,
+     "right": 0.3
+    },
+    "guven": 0.76,
+    "var": 0.88
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.03,
+     "bottom": 0.53,
+     "left": 0.02,
+     "right": 0.46
+    },
+    "guven": 0.05,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.04,
+     "right": 0.44
+    },
+    "guven": 0.02,
+    "var": 0.02
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.33,
+     "bottom": 0.44,
+     "left": 0.05,
+     "right": 0.32
+    },
+    "guven": 0.06,
+    "var": 0.05
+   }
+  }
+ },
+ {
+  "ad": "kargo_06_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 445,
+  "token": 5328,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.34,
+     "bottom": 0.41,
+     "left": 0.09,
+     "right": 0.25
+    },
+    "guven": 0.76,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.44,
+     "bottom": 0.44,
+     "left": 0.1,
+     "right": 0.26
+    },
+    "guven": 0.15,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.48,
+     "bottom": 0.51,
+     "left": 0.1,
+     "right": 0.27
+    },
+    "guven": 0.94,
+    "var": 0.88
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.44,
+     "bottom": 0.45,
+     "left": 0.08,
+     "right": 0.44
+    },
+    "guven": 0.07,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.53,
+     "left": 0.53,
+     "right": 0.53
+    },
+    "guven": 0.03,
+    "var": 0.03
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.67,
+     "bottom": 0.82,
+     "left": 0.09,
+     "right": 0.32
+    },
+    "guven": 0.06,
+    "var": 0.03
+   }
+  }
+ },
+ {
+  "ad": "kargo_06_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 791,
+  "token": 4879,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.33,
+     "left": 0.04,
+     "right": 0.23
+    },
+    "guven": 0.51,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.55,
+     "left": 0.06,
+     "right": 0.23
+    },
+    "guven": 0.05,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.46,
+     "bottom": 0.5,
+     "left": 0.06,
+     "right": 0.25
+    },
+    "guven": 0.89,
+    "var": 0.91
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.53,
+     "left": 0.03,
+     "right": 0.45
+    },
+    "guven": 0.04,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.04,
+     "right": 0.53
+    },
+    "guven": 0.02,
+    "var": 0.01
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.78,
+     "bottom": 0.79,
+     "left": 0.05,
+     "right": 0.12
+    },
+    "guven": 0.05,
+    "var": 0.04
+   }
+  }
+ },
+ {
+  "ad": "kargo_07_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 280,
+  "token": 1361,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.24,
+     "bottom": 0.44,
+     "left": 0.04,
+     "right": 0.3
+    },
+    "guven": 0.37,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.54,
+     "left": 0.05,
+     "right": 0.95
+    },
+    "guven": 0.02,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.45,
+     "bottom": 0.51,
+     "left": 0.08,
+     "right": 0.3
+    },
+    "guven": 0.86,
+    "var": 0.9
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.53,
+     "left": 0.03,
+     "right": 0.45
+    },
+    "guven": 0.04,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.04,
+     "right": 0.44
+    },
+    "guven": 0.02,
+    "var": 0.02
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.23,
+     "bottom": 0.95,
+     "left": 0.04,
+     "right": 0.22
+    },
+    "guven": 0.02,
+    "var": 0.03
+   }
+  }
+ },
+ {
+  "ad": "kargo_07_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 400,
+  "token": 5329,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.32,
+     "bottom": 0.42,
+     "left": 0.11,
+     "right": 0.32
+    },
+    "guven": 0.67,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.23,
+     "bottom": 0.44,
+     "left": 0.11,
+     "right": 0.31
+    },
+    "guven": 0.12,
+    "var": 0.01
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.48,
+     "bottom": 0.51,
+     "left": 0.12,
+     "right": 0.3
+    },
+    "guven": 0.94,
+    "var": 0.88
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.44,
+     "bottom": 0.45,
+     "left": 0.08,
+     "right": 0.44
+    },
+    "guven": 0.07,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.53,
+     "left": 0.48,
+     "right": 0.53
+    },
+    "guven": 0.05,
+    "var": 0.03
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.66,
+     "bottom": 0.75,
+     "left": 0.12,
+     "right": 0.24
+    },
+    "guven": 0.15,
+    "var": 0.04
+   }
+  }
+ },
+ {
+  "ad": "kargo_07_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 426,
+  "token": 4881,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.33,
+     "left": 0.04,
+     "right": 0.27
+    },
+    "guven": 0.59,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.55,
+     "left": 0.05,
+     "right": 0.23
+    },
+    "guven": 0.05,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.46,
+     "bottom": 0.51,
+     "left": 0.05,
+     "right": 0.25
+    },
+    "guven": 0.91,
+    "var": 0.89
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.03,
+     "right": 0.45
+    },
+    "guven": 0.04,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.03,
+     "right": 0.54
+    },
+    "guven": 0.02,
+    "var": 0.02
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.45,
+     "bottom": 0.46,
+     "left": 0.05,
+     "right": 0.13
+    },
+    "guven": 0.06,
+    "var": 0.02
+   }
+  }
+ },
+ {
+  "ad": "kargo_08_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 333,
+  "token": 1356,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.44,
+     "left": 0.04,
+     "right": 0.24
+    },
+    "guven": 0.31,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.54,
+     "left": 0.05,
+     "right": 0.33
+    },
+    "guven": 0.04,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.42,
+     "bottom": 0.5,
+     "left": 0.07,
+     "right": 0.29
+    },
+    "guven": 0.86,
+    "var": 0.9
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.53,
+     "left": 0.03,
+     "right": 0.46
+    },
+    "guven": 0.04,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.04,
+     "right": 0.53
+    },
+    "guven": 0.02,
+    "var": 0.02
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.53,
+     "left": 0.05,
+     "right": 0.13
+    },
+    "guven": 0.01,
+    "var": 0.02
+   }
+  }
+ },
+ {
+  "ad": "kargo_08_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 401,
+  "token": 5329,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.33,
+     "bottom": 0.41,
+     "left": 0.13,
+     "right": 0.3
+    },
+    "guven": 0.71,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.23,
+     "bottom": 0.44,
+     "left": 0.13,
+     "right": 0.32
+    },
+    "guven": 0.13,
+    "var": 0.01
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.49,
+     "bottom": 0.52,
+     "left": 0.14,
+     "right": 0.31
+    },
+    "guven": 0.92,
+    "var": 0.9
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.45,
+     "bottom": 0.45,
+     "left": 0.11,
+     "right": 0.35
+    },
+    "guven": 0.08,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.54,
+     "left": 0.1,
+     "right": 0.88
+    },
+    "guven": 0.02,
+    "var": 0.02
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.39,
+     "bottom": 0.45,
+     "left": 0.12,
+     "right": 0.34
+    },
+    "guven": 0.06,
+    "var": 0.02
+   }
+  }
+ },
+ {
+  "ad": "kargo_08_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 428,
+  "token": 4880,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.33,
+     "left": 0.04,
+     "right": 0.22
+    },
+    "guven": 0.5,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.55,
+     "left": 0.05,
+     "right": 0.24
+    },
+    "guven": 0.05,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.46,
+     "bottom": 0.5,
+     "left": 0.05,
+     "right": 0.25
+    },
+    "guven": 0.88,
+    "var": 0.92
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.53,
+     "left": 0.03,
+     "right": 0.46
+    },
+    "guven": 0.04,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.04,
+     "right": 0.33
+    },
+    "guven": 0.03,
+    "var": 0.02
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.53,
+     "left": 0.04,
+     "right": 0.34
+    },
+    "guven": 0.03,
+    "var": 0.02
+   }
+  }
+ },
+ {
+  "ad": "kargo_09_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 307,
+  "token": 1359,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.45,
+     "left": 0.04,
+     "right": 0.31
+    },
+    "guven": 0.36,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.55,
+     "left": 0.05,
+     "right": 0.53
+    },
+    "guven": 0.04,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.44,
+     "bottom": 0.51,
+     "left": 0.07,
+     "right": 0.3
+    },
+    "guven": 0.84,
+    "var": 0.94
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.53,
+     "bottom": 0.53,
+     "left": 0.03,
+     "right": 0.46
+    },
+    "guven": 0.06,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.04,
+     "right": 0.53
+    },
+    "guven": 0.02,
+    "var": 0.03
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.04,
+     "right": 0.24
+    },
+    "guven": 0.02,
+    "var": 0.05
+   }
+  }
+ },
+ {
+  "ad": "kargo_09_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 379,
+  "token": 5329,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.36,
+     "bottom": 0.43,
+     "left": 0.13,
+     "right": 0.32
+    },
+    "guven": 0.7,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.33,
+     "bottom": 0.45,
+     "left": 0.12,
+     "right": 0.32
+    },
+    "guven": 0.12,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.5,
+     "bottom": 0.53,
+     "left": 0.14,
+     "right": 0.31
+    },
+    "guven": 0.93,
+    "var": 0.86
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.23,
+     "bottom": 0.45,
+     "left": 0.09,
+     "right": 0.44
+    },
+    "guven": 0.06,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.23,
+     "bottom": 0.34,
+     "left": 0.42,
+     "right": 0.46
+    },
+    "guven": 0.05,
+    "var": 0.02
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.76,
+     "bottom": 0.77,
+     "left": 0.13,
+     "right": 0.33
+    },
+    "guven": 0.1,
+    "var": 0.04
+   }
+  }
+ },
+ {
+  "ad": "kargo_09_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 460,
+  "token": 4879,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.34,
+     "left": 0.04,
+     "right": 0.27
+    },
+    "guven": 0.53,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.55,
+     "left": 0.05,
+     "right": 0.24
+    },
+    "guven": 0.05,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.46,
+     "bottom": 0.5,
+     "left": 0.06,
+     "right": 0.25
+    },
+    "guven": 0.94,
+    "var": 0.93
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.03,
+     "right": 0.46
+    },
+    "guven": 0.04,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.03,
+     "right": 0.33
+    },
+    "guven": 0.03,
+    "var": 0.02
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.55,
+     "bottom": 0.95,
+     "left": 0.05,
+     "right": 0.13
+    },
+    "guven": 0.03,
+    "var": 0.03
+   }
+  }
+ },
+ {
+  "ad": "kargo_10_kucuk.jpg",
+  "model": "jev-1.14.0",
+  "ms": 321,
+  "token": 1360,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.45,
+     "left": 0.04,
+     "right": 0.29
+    },
+    "guven": 0.32,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.54,
+     "left": 0.05,
+     "right": 0.44
+    },
+    "guven": 0.03,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.43,
+     "bottom": 0.51,
+     "left": 0.08,
+     "right": 0.3
+    },
+    "guven": 0.81,
+    "var": 0.95
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.53,
+     "left": 0.03,
+     "right": 0.46
+    },
+    "guven": 0.04,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.53,
+     "left": 0.04,
+     "right": 0.45
+    },
+    "guven": 0.02,
+    "var": 0.01
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.97,
+     "left": 0.04,
+     "right": 0.13
+    },
+    "guven": 0.01,
+    "var": 0.03
+   }
+  }
+ },
+ {
+  "ad": "kargo_10_telefon.jpg",
+  "model": "jev-1.14.0",
+  "ms": 414,
+  "token": 5328,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.36,
+     "bottom": 0.42,
+     "left": 0.13,
+     "right": 0.31
+    },
+    "guven": 0.86,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.33,
+     "bottom": 0.44,
+     "left": 0.13,
+     "right": 0.32
+    },
+    "guven": 0.15,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.49,
+     "bottom": 0.52,
+     "left": 0.15,
+     "right": 0.31
+    },
+    "guven": 0.93,
+    "var": 0.89
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.45,
+     "bottom": 0.45,
+     "left": 0.11,
+     "right": 0.43
+    },
+    "guven": 0.08,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.44,
+     "bottom": 0.53,
+     "left": 0.11,
+     "right": 0.34
+    },
+    "guven": 0.05,
+    "var": 0.02
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.68,
+     "bottom": 0.96,
+     "left": 0.13,
+     "right": 0.24
+    },
+    "guven": 0.05,
+    "var": 0.04
+   }
+  }
+ },
+ {
+  "ad": "kargo_10_temiz.jpg",
+  "model": "jev-1.14.0",
+  "ms": 551,
+  "token": 4877,
+  "alanlar": {
+   "ad": {
+    "kutu": {
+     "top": 0.25,
+     "bottom": 0.34,
+     "left": 0.04,
+     "right": 0.23
+    },
+    "guven": 0.57,
+    "var": 0.98
+   },
+   "tc": {
+    "kutu": {
+     "top": 0.05,
+     "bottom": 0.55,
+     "left": 0.05,
+     "right": 0.24
+    },
+    "guven": 0.05,
+    "var": 0.02
+   },
+   "telefon": {
+    "kutu": {
+     "top": 0.46,
+     "bottom": 0.5,
+     "left": 0.06,
+     "right": 0.24
+    },
+    "guven": 0.93,
+    "var": 0.92
+   },
+   "iban": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.03,
+     "right": 0.45
+    },
+    "guven": 0.04,
+    "var": 0.01
+   },
+   "imza": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.54,
+     "left": 0.04,
+     "right": 0.33
+    },
+    "guven": 0.02,
+    "var": 0.02
+   },
+   "toplam": {
+    "kutu": {
+     "top": 0.04,
+     "bottom": 0.97,
+     "left": 0.05,
+     "right": 0.13
+    },
+    "guven": 0.02,
+    "var": 0.03
+   }
+  }
+ }
+]
